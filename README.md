@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Full Stack developer
 - 💞️ I’m looking to collaborate on Company.
-- Aske me about ? JavaScript | Reactjs | FrontEnd Development 
+- 🤔 Ask me about ? JavaScript | Reactjs | FrontEnd Development 
 - 📫 How to reach me >>>>>>>  LinkedIn(Logesh baskar)
 
 <!---
