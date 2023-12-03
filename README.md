@@ -2,7 +2,8 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Full Stack developer
 - 💞️ I’m looking to collaborate on Company.
-- 📫 How to reach me LinkedIn(Logesh baskar)
+- Aske me about ? JavaScript | Reactjs | FrontEnd Development 
+- 📫 How to reach me >>>>>>>  LinkedIn(Logesh baskar)
 
 <!---
 logeshbaskarlb/logeshbaskarlb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
