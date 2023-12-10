@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack developer
 - 💞️ I’m looking to collaborate on Company.
 - 🤔 Ask me about ? JavaScript | Reactjs | FrontEnd Development 
-- 📫 How to reach me >>>>>>>  LinkedIn(https://www.linkedin.com/in/logeshwaran-b-1582b5219/)
+- 📫 How to reach me >>>>>>>  LinkedIn(Logeshwaran B)
 
 
 
