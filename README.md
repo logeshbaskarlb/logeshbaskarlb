@@ -10,8 +10,7 @@ Vision of gaining new experience and work for a company where I can learn and co
 * 🌍  I'm from in India
 * 🖥️  See my portfolio at [Logeshwaran](http://master--logeshwaranb-portfolio.netlify.app/)
 * ✉️  You can contact me at [logeshbaskar007@gmail.com](mailto:logeshbaskar007@gmail.com)
-* 🚀  I'm currently working on [Youtube clone](http://master--logeshwaranb-portfolio.netlify.app/)
-* 🧠  I'm working with React JS
+* 🧠  I'm working with React JS, JavaScript
 
 ### Skills
 
