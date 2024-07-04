@@ -7,7 +7,7 @@ Full Stack Web Developer
 
 Vision of gaining new experience and work for a company where I can learn and contribute my skills to achieve the team and organization goals. Have the ability to listen, understand instructions from superiors and deliver quality results.
 
-* 🌍  I'm based in India
+* 🌍  I'm from in India
 * 🖥️  See my portfolio at [Logeshwaran](http://master--logeshwaranb-portfolio.netlify.app/)
 * ✉️  You can contact me at [logeshbaskar007@gmail.com](mailto:logeshbaskar007@gmail.com)
 * 🚀  I'm currently working on [Youtube clone](http://master--logeshwaranb-portfolio.netlify.app/)
