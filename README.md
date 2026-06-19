@@ -1,41 +1,109 @@
+# Hi 👋, I'm Logeshwaran
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself Logeshwaran 
-=====================================================================================================================================
+## Full Stack Developer | React.js | Node.js | PostgreSQL
 
-Full Stack Web Developer
-------------------------
+Full Stack Developer with 2+ years of professional experience building scalable web applications and enterprise solutions. Currently working on the **Brand Runner Platform**, contributing to Advertisement & Promotion (A&P) and Field Work Management (FWM) modules.
 
-Vision of gaining new experience and work for a company where I can learn and contribute my skills to achieve the team and organization goals. Have the ability to listen, understand instructions from superiors and deliver quality results.
+I specialize in developing modern web applications using React.js, Node.js, PostgreSQL, and cloud-based technologies while focusing on performance, maintainability, and user experience.
 
-* 🌍  I'm from in India
-* 🖥️  See my portfolio at [Logeshwaran](http://master--logeshwaranb-portfolio.netlify.app/)
-* ✉️  You can contact me at [logeshbaskar007@gmail.com](mailto:logeshbaskar007@gmail.com)
-* 🧠  I'm working with React JS, JavaScript
+---
 
-### Skills
+### 🚀 About Me
 
+* 💼 Full Stack Developer with 2+ years of experience
+* 🌱 Currently working with React.js, Node.js, PostgreSQL, Drizzle ORM, Material UI
+* 🔭 Working on enterprise products for Sales, Distributor Management, Workflow Automation, and Field Operations
+* 🧠 Passionate about scalable architecture and clean code
+* 🤝 Open to collaborating on Full Stack and Open Source projects
+* 📍 Salem, Tamil Nadu, India
+* 📫 Email: **[logeshbaskar007@gmail.com](mailto:logeshbaskar007@gmail.com)**
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+---
 
+### 🛠️ Tech Stack
 
-### Socials
+#### Frontend
 
-<p align="left"> <a href="https://www.github.com/logeshbaskarlb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/logeshwaran-b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge\&logo=mui)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 
-### Badges
+#### Backend
 
-<b>My GitHub Stats</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
-<a href="http://www.github.com/logeshbaskarlb"><img src="https://github-readme-stats.vercel.app/api?username=logeshbaskarlb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="logeshbaskarlb's GitHub stats" /></a>
+#### Database
 
-<a href="http://www.github.com/logeshbaskarlb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=logeshbaskarlb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
-<a href="http://www.github.com/logeshbaskarlb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=logeshbaskarlb&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+#### Tools & Technologies
 
-<a href="https://github.com/logeshbaskarlb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshbaskarlb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### 💼 Professional Experience
+
+#### Full Stack Developer
+
+**Brand Runner Platform** *(Aug 2024 - Present)*
+
+Working on enterprise applications used by field sales teams, distributors, and marketing operations.
+
+Key Contributions:
+
+* Developed and maintained Advertisement & Promotion (A&P) modules
+* Built Field Work Management (FWM) workflows
+* Implemented role-based access controls and approval systems
+* Developed distributor reconciliation and pickup management features
+* Integrated KYC, Bank Verification, and OTP-based authentication workflows
+* Improved application performance and user experience
+* Worked across frontend, backend, APIs, and database layers
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=logeshbaskarlb\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=logeshbaskarlb\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=logeshbaskarlb\&layout=compact\&theme=tokyonight)
+
+---
+
+### 🎯 Current Focus
+
+* Full Stack Development
+* System Design
+* PostgreSQL Optimization
+* Scalable Backend Architecture
+* Enterprise Application Development
+* Cloud Deployment & DevOps
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/logeshwaran-b)
+
+[GitHub](https://github.com/logeshbaskarlb)
+
+Portfolio: http://master--logeshwaranb-portfolio.netlify.app/
+
+Email: [logeshbaskar007@gmail.com](mailto:logeshbaskar007@gmail.com)
+
+---
+
+### 💡 Quote
+
+> "Consistency in learning and building creates extraordinary results over time."
